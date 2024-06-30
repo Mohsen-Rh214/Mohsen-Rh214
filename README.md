@@ -12,30 +12,29 @@ A Front-end developer.
 
 <!-- Github stats -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsen-rh214&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true)](https://github.com/mohsen-rh214/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mohsen-rh214&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-rh214&theme=tokyonight&layout=donut&card_width=320" />
+</a>
 
 <!-- End of stats -->
-<!-- Languages -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-rh214)](https://github.com/mohsen-rh214/github-readme-stats)
-
-<!-- End of Languages -->
 
 <!-- WakaTime -->
 
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohsen-rh214)](https://github.com/mohsen-rh214/github-readme-stats)
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohsen_rh214&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- End of WakaTime -->
 
 <!-- Contact me -->
 #### Contact me
 
-<a target="_blank" href="mailto:mohsen.rh0214@gmail.com">Contact by email</a>
+<p>📫 How to reach me: <a target="_blank" href="mailto:mohsen.rh0214@gmail.com">Contact by email</a></p>
 
 <!-- End of contact me -->
 
-<img align="left"
-  src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/mohsen-rh214&style=for-the-badge">
+<!-- <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/mohsen-rh214&style=for-the-badge"> -->
 <!--
 **Mohsen Zakeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
