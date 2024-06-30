@@ -16,18 +16,17 @@ I'm a self-taught passionate FrontEnd developer.
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nextjs" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
 
 
 <!-- Github stats -->
 
-<div style="display: flex; width: 100%; align-items: space-between; background: white">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mohsen-rh214&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-rh214&theme=tokyonight&layout=donut" />
 </a>
-</div>
 
 <!-- End of stats -->
 
