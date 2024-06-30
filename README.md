@@ -20,7 +20,7 @@ I'm a self-taught passionate FrontEnd developer.
 
 <!-- Github stats -->
 
-<div style="display: flex; width: 100%; justify-content: space-between">
+<div style="display: flex; width: 100%; align-items: space-between; background: white">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mohsen-rh214&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
 </a>
