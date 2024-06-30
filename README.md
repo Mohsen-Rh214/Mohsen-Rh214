@@ -33,7 +33,7 @@ I'm a self-taught passionate FrontEnd developer.
 
 ### My WakaTime Stats
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohsen_rh214&theme=tokyonight&layout=donut&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohsen_rh214&theme=tokyonight&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- End of WakaTime -->
 
