@@ -20,12 +20,14 @@ I'm a self-taught passionate FrontEnd developer.
 
 <!-- Github stats -->
 
+<div style="display: flex; width: 100%; justify-content: space-between">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mohsen-rh214&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-rh214&theme=tokyonight&layout=donut" />
 </a>
+</div>
 
 <!-- End of stats -->
 
